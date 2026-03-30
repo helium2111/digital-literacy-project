@@ -1,4 +1,4 @@
-// **Do’s**
+# **Do’s**
 
 1. Maintain a professional profile (clear bio, appropriate username)
 
@@ -10,7 +10,7 @@
 
 5. Be respectful and polite in comments and messages
 
-// **Don’ts**
+# **Don’ts**
 
 1. Don’t share personal information like phone number, address, or passwords
 
